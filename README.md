@@ -88,6 +88,7 @@ https://github.com/ReactiveX/RxJS/issues/1121#issuecomment-169568428
 - [Testing reactive code](https://glebbahmutov.com/blog/testing-reactive-code/) - Dr. Gleb Bahmutov (Feb 2016)
 - [Testing your Rx application](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/testing.md) - RxJS documentation
 - [RxJs Testing in Real World Applications](https://blog.hyphe.me/rxjs-testing-in-real-world-applications/) - Simon Jentsch (Feb 2016)
+- [Log and test RxJS observables with 1log](https://dev.to/ivan7237d/log-and-test-rxjs-observables-with-1log-5cbm) - Ivan Novikov (Feb 2021)
 
 ## References
  - [Online gitbook rx-book](https://xgrommx.github.io/rx-book/index.html)
